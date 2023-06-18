@@ -16,7 +16,7 @@ Prerequisites:
 - Django (3.0 or higher)
 
 Installation:
-1. Clone the repository: git clone https://github.com/your-username/django-dashboard.git
+1. Clone the repository: git clone (https://github.com/KanishkaJuneja/EmptyCup_Hackathon_Django.git)
 2. Navigate to the project directory: cd django-dashboard
 3. Create a virtual environment: python -m venv env
 4. Activate the virtual environment:
